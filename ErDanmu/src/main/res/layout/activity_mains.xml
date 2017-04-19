@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<TextView
+    android:text="弹幕服务已开启，请保持程序运行,确保以下权限已开启：
+    \n
+    1.锁屏显示\n
+    2.读写手机存储\n
+    3.后台弹出界面\n
+    4.显示悬浮窗\n
+    5.通知使用权\n
+
+    在第一次启动程序后，并且确保所有权限已授权，弹幕可能会延迟大概30秒左右，可以尝试使用小号给自己QQ发消息，多发几次。
+    \n\n
+    6.如有意见或问题反馈请反馈至2725987401@qq.com
+"
+   android:layout_centerInParent="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+</RelativeLayout>

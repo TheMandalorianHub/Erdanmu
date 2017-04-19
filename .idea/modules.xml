@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DanmakuFlameMaster/DanmakuFlameMaster.iml" filepath="$PROJECT_DIR$/DanmakuFlameMaster/DanmakuFlameMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DanmakuFlameMaster-master.iml" filepath="$PROJECT_DIR$/DanmakuFlameMaster-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErDanmu/ErDanmu.iml" filepath="$PROJECT_DIR$/ErDanmu/ErDanmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkbitmap-armv5/ndkbitmap-armv5.iml" filepath="$PROJECT_DIR$/ndkbitmap-armv5/ndkbitmap-armv5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkbitmap-armv7a/ndkbitmap-armv7a.iml" filepath="$PROJECT_DIR$/ndkbitmap-armv7a/ndkbitmap-armv7a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkbitmap-x86/ndkbitmap-x86.iml" filepath="$PROJECT_DIR$/ndkbitmap-x86/ndkbitmap-x86.iml" />
+    </modules>
+  </component>
+</project>

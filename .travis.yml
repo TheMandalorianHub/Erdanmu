@@ -1,0 +1,16 @@
+language: android
+android:
+  components:
+    - platform-tools
+    - tools
+    - build-tools-24.0.2
+    - android-24
+    - extra-android-support
+    - extra-android-m2repository
+
+script:
+    - ./gradlew check -i
+
+after_failure:
+  - cat /home/travis/build/Bilibili/DanmakuFlameMaster/DanmakuFlameMaster/build/outputs/lint-results.html
+  - cat /home/travis/build/Bilibili/DanmakuFlameMaster/DanmakuFlameMaster/build/outputs/lint-results.xml
